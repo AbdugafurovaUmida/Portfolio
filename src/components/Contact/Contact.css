@@ -1,0 +1,53 @@
+.contact {
+    background-color: #1b1d22;
+    color: #fff;
+    padding: 0 0 50px 40px;
+}
+
+.contact__tel a{
+    text-decoration: none;
+    display: inline-block;
+}
+
+.social-icons-wrapper {
+    display: flex;
+    padding-left: 0;
+}
+
+.social-icons-wrapper li {
+    list-style: none;
+}
+
+.social-icons-wrapper li a {
+    font-size: 20px;
+}
+
+.social-icons-wrapper li a:not(:last-child) {
+    margin-right: 10px;
+}
+
+.contact__icon {
+    vertical-align: middle;
+    color: #aab1b8;
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+.contact__description {
+    margin: 12px 0;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.contact__tel a {
+    color: #fff;
+    font-size: 18px;
+}
+
+.section-projects__title{
+    padding-top: 50px;
+}
+
+.contact__sub--title {
+    margin-bottom: 20px;
+}
